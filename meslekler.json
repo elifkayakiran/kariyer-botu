@@ -1,0 +1,164 @@
+{
+  "meslekler": [
+    {
+      "isim": "Veri Analisti",
+      "alanlar": ["teknoloji", "iş"],
+      "egitim": ["lisans", "önlisans"],
+      "hedefler": ["yüksek maaş", "problem çözme", "uzaktan çalışma"],
+      "beceriler": ["Python", "SQL", "Excel", "İstatistiksel analiz"],
+      "açıklama": "Veri analistleri, şirketlerin karar alma süreçlerini desteklemek için verileri işler ve yorumlar."
+    },
+    {
+      "isim": "Oyun Tasarımcısı",
+      "alanlar": ["yaratıcılık", "teknoloji"],
+      "egitim": ["lisans", "önlisans", "sertifika"],
+      "hedefler": ["yaratıcılık", "takım çalışması"],
+      "beceriler": ["Unity/Unreal", "3D modelleme", "hikaye anlatımı"],
+      "açıklama": "Oyun tasarımcıları, video oyunlarının kurgusunu, mekaniklerini ve dünyasını oluşturur."
+    },
+    {
+      "isim": "Grafik Tasarımcı",
+      "alanlar": ["yaratıcılık", "sanat"],
+      "egitim": ["önlisans", "sertifika"],
+      "hedefler": ["yaratıcılık", "özgür çalışma"],
+      "beceriler": ["Photoshop", "Illustrator", "UI/UX"],
+      "açıklama": "Grafik tasarımcılar, görsel iletişim araçlarını kullanarak markaların ve projelerin kimliğini oluşturur."
+    },
+    {
+      "isim": "Yazılım Geliştirici",
+      "alanlar": ["teknoloji", "iş"],
+      "egitim": ["lisans", "önlisans"],
+      "hedefler": ["yüksek maaş", "kariyer fırsatları"],
+      "beceriler": ["Python", "JavaScript", "Git", "Veritabanı yönetimi"],
+      "açıklama": "Yazılım geliştiriciler, bilgisayar uygulamaları ve sistemlerini tasarlar, kodlar ve bakımını yapar."
+    },
+    {
+      "isim": "Dijital Pazarlama Uzmanı",
+      "alanlar": ["iş", "yaratıcılık"],
+      "egitim": ["lisans", "sertifika"],
+      "hedefler": ["kariyer fırsatları", "yaratıcılık"],
+      "beceriler": ["SEO", "Google Ads", "Sosyal Medya Yönetimi"],
+      "açıklama": "Dijital pazarlama uzmanları, markaların internet üzerindeki görünürlüğünü artırmak için stratejiler geliştirir."
+    },
+    {
+      "isim": "Mekatronik Mühendisi",
+      "alanlar": ["teknoloji", "mühendislik"],
+      "egitim": ["lisans"],
+      "hedefler": ["yüksek maaş", "teknoloji geliştirme"],
+      "beceriler": ["C/C++", "Matlab", "Elektronik Devreler"],
+      "açıklama": "Mekatronik mühendisleri, mekanik, elektronik ve bilgisayar mühendisliğini birleştirerek akıllı sistemler geliştirir."
+    },
+    {
+      "isim": "Psikolog",
+      "alanlar": ["insan", "sağlık"],
+      "egitim": ["lisans", "yüksek lisans"],
+      "hedefler": ["insanlara yardım", "uzmanlık"],
+      "beceriler": ["Empati", "Gözlem", "İletişim"],
+      "açıklama": "Psikologlar, insanların davranışlarını ve duygularını inceleyerek ruh sağlığına destek olur."
+    },
+    {
+      "isim": "Öğretmen",
+      "alanlar": ["insan", "eğitim"],
+      "egitim": ["lisans"],
+      "hedefler": ["insanlara yardım", "topluma katkı"],
+      "beceriler": ["İletişim", "Sunum", "Sabır"],
+      "açıklama": "Öğretmenler, öğrencilere bilgi aktarır ve onların gelişimine katkıda bulunur."
+    },
+    {
+      "isim": "Mimar",
+      "alanlar": ["yaratıcılık", "mühendislik"],
+      "egitim": ["lisans"],
+      "hedefler": ["yaratıcılık", "prestij"],
+      "beceriler": ["AutoCAD", "3D Tasarım", "Proje Yönetimi"],
+      "açıklama": "Mimarlar, binaların ve yapıların estetik ve işlevsel tasarımlarını yapar."
+    },
+    {
+      "isim": "Hemşire",
+      "alanlar": ["sağlık", "insan"],
+      "egitim": ["önlisans", "lisans"],
+      "hedefler": ["insanlara yardım", "sağlık sektörü"],
+      "beceriler": ["Hasta Bakımı", "Empati", "İletişim"],
+      "açıklama": "Hemşireler, hastaların bakımını üstlenir ve sağlık ekibine destek olur."
+    },
+    {
+      "isim": "Veri Bilimci",
+      "alanlar": ["teknoloji", "iş"],
+      "egitim": ["lisans", "yüksek lisans"],
+      "hedefler": ["yüksek maaş", "teknoloji geliştirme"],
+      "beceriler": ["Python", "Makine Öğrenmesi", "R", "Büyük Veri"],
+      "açıklama": "Veri bilimciler, büyük verilerden anlamlı sonuçlar çıkararak şirketlere stratejik kararlarında yardımcı olur."
+    },
+    {
+      "isim": "Çevirmen",
+      "alanlar": ["dil", "insan"],
+      "egitim": ["lisans", "sertifika"],
+      "hedefler": ["esnek çalışma", "kültürel katkı"],
+      "beceriler": ["İngilizce", "Çift Dil Yetkinliği", "Yazılı/Sözlü Çeviri"],
+      "açıklama": "Çevirmenler, yazılı veya sözlü metinleri bir dilden başka bir dile aktarır."
+    },
+    {
+      "isim": "Finans Analisti",
+      "alanlar": ["iş", "ekonomi"],
+      "egitim": ["lisans"],
+      "hedefler": ["yüksek maaş", "kariyer fırsatları"],
+      "beceriler": ["Excel", "Finansal Modelleme", "Raporlama"],
+      "açıklama": "Finans analistleri, şirketlerin mali durumlarını değerlendirir ve yatırım kararlarına destek olur."
+    },
+    {
+      "isim": "Doktor",
+      "alanlar": ["sağlık", "insan"],
+      "egitim": ["lisans", "uzmanlık"],
+      "hedefler": ["insanlara yardım", "prestij"],
+      "beceriler": ["Tıp Bilgisi", "Hasta İletişimi", "Analitik Düşünme"],
+      "açıklama": "Doktorlar, hastalıkları teşhis eder, tedavi uygular ve insan sağlığını korur."
+    },
+    {
+      "isim": "Avukat",
+      "alanlar": ["hukuk", "insan"],
+      "egitim": ["lisans"],
+      "hedefler": ["prestij", "kariyer fırsatları"],
+      "beceriler": ["Hukuk Bilgisi", "İkna", "Analiz"],
+      "açıklama": "Avukatlar, bireylerin ve kurumların haklarını korur ve hukuki danışmanlık yapar."
+    },
+    {
+      "isim": "Müzisyen",
+      "alanlar": ["sanat", "yaratıcılık"],
+      "egitim": ["sertifika", "konservatuvar"],
+      "hedefler": ["yaratıcılık", "özgür çalışma"],
+      "beceriler": ["Nota Bilgisi", "Çalgı Çalma", "Sahne Performansı"],
+      "açıklama": "Müzisyenler, sanatsal eserler yaratır ve sahnede icra eder."
+    },
+    {
+      "isim": "Pilot",
+      "alanlar": ["teknoloji", "ulaşım"],
+      "egitim": ["lisans", "pilotaj eğitimi"],
+      "hedefler": ["prestij", "yüksek maaş"],
+      "beceriler": ["Havacılık Bilgisi", "Odaklanma", "Sorumluluk"],
+      "açıklama": "Pilotlar, yolcu ve kargo uçaklarını güvenli şekilde kullanır."
+    },
+    {
+      "isim": "Aşçı",
+      "alanlar": ["sanat", "yaratıcılık"],
+      "egitim": ["sertifika", "önlisans"],
+      "hedefler": ["yaratıcılık", "özgür çalışma"],
+      "beceriler": ["Yemek Tarifleri", "Hijyen", "Sunum"],
+      "açıklama": "Aşçılar, yemekleri hazırlar ve sunumuyla birlikte lezzet deneyimi oluşturur."
+    },
+    {
+      "isim": "Sosyal Hizmet Uzmanı",
+      "alanlar": ["insan", "toplum"],
+      "egitim": ["lisans"],
+      "hedefler": ["insanlara yardım", "topluma katkı"],
+      "beceriler": ["Danışmanlık", "Empati", "Toplumsal Analiz"],
+      "açıklama": "Sosyal hizmet uzmanları, bireylerin ve toplulukların sosyal sorunlarına çözüm üretir."
+    },
+    {
+      "isim": "Web Geliştirici",
+      "alanlar": ["teknoloji", "yaratıcılık"],
+      "egitim": ["önlisans", "lisans"],
+      "hedefler": ["esnek çalışma", "yüksek maaş"],
+      "beceriler": ["HTML", "CSS", "JavaScript", "React"],
+      "açıklama": "Web geliştiriciler, internet siteleri ve web uygulamaları tasarlar ve kodlar."
+    }
+  ]
+}
